@@ -46,3 +46,6 @@
 2.  设置Advanced-SATA Mode-AHCI Mode.
 3.  开启Advanced-Advanced Chipset Control-UEFI OS Fast Boot.
 4.  关闭Advanced-Advanced Chipset Control-Software Guard Extensions（SGX）.
+
+#### 早期版本
+MacOS_Monterey_12.x版本：[N960SD_Monterey_OpenCore0.7.8_220701](https://www.lanzoux.com/i1AF81lnrhkf)
