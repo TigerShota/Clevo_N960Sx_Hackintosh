@@ -50,3 +50,5 @@
 
 #### 早期版本
 MacOS_Monterey_12.x版本：[N960SD_Monterey_OpenCore0.7.8_220701](https://www.lanzoux.com/i1AF81lnrhkf)
+
+此版本可能存在异常发热的情况，请慎用！
